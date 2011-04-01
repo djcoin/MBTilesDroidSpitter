@@ -1,6 +1,6 @@
 package org.tilespitter.mapboxtiles;
 
-/** @author Simon Thépot aka djcoin <simon.thepot@gmail.com, simon.thepot@makina-corpus.net> */
+/** @author Simon Thépot aka djcoin <simon.thepot@gmail.com, simon.thepot@makina-corpus.com> */
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
